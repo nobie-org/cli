@@ -25,7 +25,7 @@ nobie is a full Excel-compatible engine in your terminal. Pipe data in, compute 
 On macOS or Linux:
 
 ```sh
-curl https://nobie.com/install.sh | sh
+curl -fsSL https://nobie.com/install.sh | sh
 ```
 
 For a noninteractive install, explicitly accept the [Nobie Desktop App License Terms](https://nobie.com/desktop-app-license-terms):
